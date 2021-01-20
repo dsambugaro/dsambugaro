@@ -32,6 +32,11 @@ Dungeons & Dragons, or any other RPG system that you like!
 The Hitchhiker's Guide to the Galaxy, Ready Player One, The Lord of the Rings, or any other book that you've loved to read!
 Anyway, I'm open to anything that you love and want to share (:
 
+### 💻 Let's get connected
+[![instagram](https://img.shields.io/badge/Instagram%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dsambugaro/)
+[![linkedin](https://img.shields.io/badge/LinkedIn%20-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dsambugaro/)
+[![telegram](https://img.shields.io/badge/Telegram%20-%23202932?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dsambugaro)
+[![gmail](https://img.shields.io/badge/dan.sambugaro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dan.sambugaro@gmail.com)
 <!--
 **dsambugaro/dsambugaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
