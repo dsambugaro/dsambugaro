@@ -9,6 +9,7 @@ My first "Hello World" was during high school, around 2012. Since then I have be
 
 ### 🌱 I’m currently learning 
 
+![typescript](https://img.shields.io/badge/Typescript%20-%230966ba.svg?&style=for-the-badge&logo=Canonical&logoColor=white)
 ![django](https://img.shields.io/badge/Django%20-%2300382A.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![opencv](https://img.shields.io/badge/OpenCV%20-%230966ba.svg?&style=for-the-badge&logo=Canonical&logoColor=white)
 
