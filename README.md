@@ -1,16 +1,25 @@
 ### Hello there 👋 &nbsp;&nbsp;&nbsp;&nbsp; ![views](https://komarev.com/ghpvc/?username=dsambugaro&style=flat-square&color=41B883&label=Views)
 
-I'm taking my under degree in Computer Science at Federal University of Technology - Paraná (UTFPR).
-My first "Hello World" was during high school, around 2012. Since then I have been learning a lot and I'll learn even more, I hope
+I'm had taken a degree in Computer Science from the [Federal University of Technology - Paraná (UTFPR)](https://portal.utfpr.edu.br/cursos/coordenacoes/graduacao/campo-mourao/cm-ciencia-da-computacao).
+My first "Hello World" was during high school, around 2012. Since then I have been learning a lot and I'll learn even more, I hope.
 
-![Danilo Sambugaro Github Stats](https://github-readme-stats.vercel.app/api?username=dsambugaro&show_icons=true&theme=vue-dark)
+I'm currently improving and changing the lives of industrial professionals at [@Tractian](https://github.com/tractian/)!
 
-<!-- ![Danilo Sambugaro Github Code](https://github-readme-stats.vercel.app/api/top-langs/?username=dsambugaro&theme=vue-dark) -->
+
+<!-- ![Danilo Sambugaro Github Stats](https://github-readme-stats.vercel.app/api?username=dsambugaro&show_icons=true&theme=vue-dark) -->
+<!-- ![Danilo Sambugaro Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dsambugaro&show_icons=true&locale=en&layout=compact&theme=vue-dark) -->
+
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsambugaro&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="dsambugaro top languages" /></p>
+    </div>
+    <div style="display: inline-block;">
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dsambugaro&show_icons=true&theme=vue-dark" alt="dsambugaro Github Stats" /></p>
+    </div>
+</div>
 
 ### 🌱 I’m currently learning 
 
-![typescript](https://img.shields.io/badge/Typescript%20-%230966ba.svg?&style=for-the-badge&logo=Canonical&logoColor=white)
-![django](https://img.shields.io/badge/Django%20-%2300382A.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![opencv](https://img.shields.io/badge/OpenCV%20-%230966ba.svg?&style=for-the-badge&logo=Canonical&logoColor=white)
 
 ### ⚡ Skills
@@ -18,6 +27,7 @@ My first "Hello World" was during high school, around 2012. Since then I have be
 ![html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![typescript](https://img.shields.io/badge/Typescript%20-%230966ba.svg?&style=for-the-badge&logo=Canonical&logoColor=white)
 ![react](https://img.shields.io/badge/react%20-%231a84a1.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![jupyter](https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
